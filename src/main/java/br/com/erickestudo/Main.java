@@ -31,7 +31,7 @@ public class Main {
                          <html>
                             <head>
                                 <title>Funcionou!</title>
-                            <head>
+                            </head>
                             <body>
                                 <h1>Funcionou!</h1>
                             </body>
